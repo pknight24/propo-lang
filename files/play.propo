@@ -1,0 +1,3 @@
+let a be T.
+let b be F.
+eval ((a implies b)).
